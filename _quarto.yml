@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Quarto 책"
+  author: "한국 R 사용자회"
+  date: "2022. 8. 20."
+  cover-image: cover.png
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - plot.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    cover-image: cover.png
+  pdf:
+    documentclass: scrreprt
+    cover-image: cover.png
+
+mainfont: "NanumMyeongjo"
+sansfont: "NanumGothic"
+monofont: "D2Coding"
+
+

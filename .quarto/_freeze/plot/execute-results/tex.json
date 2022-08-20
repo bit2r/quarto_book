@@ -1,0 +1,20 @@
+{
+  "hash": "ec5c7f171789fe50d01825403c331dbb",
+  "result": {
+    "markdown": "# 그래프\n\nR 그래프도 넣어봅니다.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](plot_files/figure-pdf/unnamed-chunk-1-1.pdf){fig-pos='H'}\n:::\n:::\n",
+    "supporting": [
+      "plot_files\\figure-pdf"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}
