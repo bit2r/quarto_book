@@ -44,3 +44,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 >>>>>>> 990404b3e2a36389e02c83bfe671102bf54b73a8
+
+/.quarto/

@@ -1,5 +1,5 @@
 {
-  "hash": "f3eab7c4a92435763c312637dc89e2ba",
+  "hash": "58ecfe7aa0c382af5e54049b16cc1760",
   "result": {
     "markdown": "# Summary\n\n요약하면, this book has no content whatsoever.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],

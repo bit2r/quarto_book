@@ -2,10 +2,11 @@ project:
   type: book
 
 book:
-  title: "Quarto 책"
+  title: "Quarto 전자책"
   author: "한국 R 사용자회"
   date: "2022. 8. 20."
   cover-image: cover.png
+  downloads: [pdf, epub]
   chapters:
     - index.qmd
     - intro.qmd

@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: ce323e0a-eba4-4e74-bdfe-7f46d98a3038
+      url: 'https://quartopub.com/sites/statkclee/quarto-book'
